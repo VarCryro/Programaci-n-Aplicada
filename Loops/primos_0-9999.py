@@ -1,4 +1,4 @@
-Este código de Python busca e imprime todos los números primos en el rango del 0 al 9999 y mide el tiempo que lleva hacerlo.
+#Este código de Python busca e imprime todos los números primos en el rango del 0 al 9999 y mide el tiempo que lleva hacerlo.
 import time
 inicio = time.time()
 
